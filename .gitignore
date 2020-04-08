@@ -2,5 +2,6 @@
 .vscode
 Library
 obj
+bin
 Temp
 .DS_Store
